@@ -1,0 +1,26 @@
+html {
+    background-color: rosybrown;
+    height: 100%;
+    width: 100%;
+  }
+  
+  /* Body styles*/
+  body {
+    color: #f5f5dc;
+    text-align: center;
+  }
+  
+  h1, h2, p {
+    font-family: "Agbalumo";
+    font-size: 2em;
+  }
+  
+  button {
+    color: #f5f5dc;
+    font-family: "Agbalumo";
+    background-color: #954535;
+    margin: 5px;
+    border: none;
+    padding: 10px;
+    border-radius: 45px;
+  }
